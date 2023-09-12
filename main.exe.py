@@ -38,7 +38,7 @@ Por favor selecione a operação:
 
 def again():
     calc_again = input('''
-Quer calcular denovo? S para sim ou N para não
+Quer calcular de novo? S para sim ou N para não
 ''')
 
     if calc_again.upper() == 'S':
